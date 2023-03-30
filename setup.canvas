@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"New VSCode Terminal","id":"85ce0ea85356de34","x":-177,"y":25,"width":250,"height":60,"color":"#2b1edc"},
+		{"id":"ddb578cea0c5bfef","x":-120,"y":180,"width":250,"height":50,"color":"5","type":"text","text":"Run Python File"}
+	],
+	"edges":[
+		{"id":"965e6f451546a951","fromNode":"ddb578cea0c5bfef","fromSide":"top","toNode":"85ce0ea85356de34","toSide":"bottom"}
+	]
+}
